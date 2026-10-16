@@ -29,7 +29,7 @@ export const profile = {
 
   // Portrait image stored inside public/images/
   portrait: {
-    src: `${import.meta.env.BASE_URL}images/rohini-portrait.png`,
+    src: '/portfolio-rohini/images/rohini-portrait.png',
     srcSet: '',
     alt: 'Rohini Dhanapal portrait',
   },
